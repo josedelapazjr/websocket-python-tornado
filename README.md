@@ -1,4 +1,4 @@
-# This is a sample websocket using tornado in python
+# This is a sample websocket app using tornado in python
 
 1. Run the server:
 
